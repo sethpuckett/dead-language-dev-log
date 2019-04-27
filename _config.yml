@@ -1,0 +1,41 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+input: GFM
+highlighter: rouge
+markdown: kramdown
+# disqus:
+google_analytics: UA-77177721-5
+title: Dead Language Dev Log
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Dead Language
+
+description: Fast-paced language learning zombie shoot-em-up
+author:
+  name: Seth Puckett
+  email: puckett.seth@gmail.com
+  github: sethpuckett
+  twitter: sethpuckett
+  # pinterest: asd123
+  # linkedin: asd123
+  # bio: The latest development updates
+  email_md5: 3483515581bff1cfec63cb90778f425e
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+sidebar_background_image: /assets/media/site/zombie-bg.png
+
+BASE_PATH:
+
+plugins:
+  - jekyll-paginate
