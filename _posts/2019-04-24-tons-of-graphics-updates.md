@@ -2,7 +2,7 @@
 layout: post
 title: Tons of Graphics Updates
 categories: [development, art, infrastructure]
-tags: [minigame prototype, es6, scenes, easing functions, trello]
+tags: [minigame prototype, es6, scenes, trello]
 fullview: false
 comments: false
 ---
