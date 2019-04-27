@@ -1,4 +1,5 @@
-_config.yml
+.vscode/
 _site/*
+*.log
 *Thumbs.db
 Gemfile.lock
