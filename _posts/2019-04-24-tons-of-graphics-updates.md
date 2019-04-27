@@ -21,8 +21,9 @@ I spent some time researching NES game UIs and sketching out ideas for how I wan
 <img src='/assets/media/posts/2019-04-24/nes-4.png' class='small' alt='NES UI' title='NES UI' />
 <img src='/assets/media/posts/2019-04-24/nes-5.png' class='small' alt='NES UI' title='NES UI' />
 <img src='/assets/media/posts/2019-04-24/nes-6.png' class='small' alt='NES UI' title='NES UI' />
-<img src='/assets/media/posts/2019-04-24/nes-7.png' class='small' alt='NES UI' title='NES UI' />
 <img src='/assets/media/posts/2019-04-24/nes-8.png' class='small' alt='NES UI' title='NES UI' />
+<img src='/assets/media/posts/2019-04-24/nes-7.png' class='small' alt='NES UI' title='NES UI' />
+
 
 ![UI Sketches](/assets/media/posts/2019-04-24/ui-sketch.jpg "UI Sketches")
 
