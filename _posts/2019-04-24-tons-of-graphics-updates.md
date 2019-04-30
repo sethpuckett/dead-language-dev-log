@@ -2,7 +2,7 @@
 layout: post
 title: Tons of Graphics Updates
 categories: [development, art, infrastructure]
-tags: [minigame prototype, es6, scenes, trello]
+tags: [minigame prototype, website, github pages, UI, NES]
 fullview: false
 comments: false
 ---
