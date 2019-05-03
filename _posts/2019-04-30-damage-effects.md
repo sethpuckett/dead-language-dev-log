@@ -2,7 +2,7 @@
 layout: post
 title: Damage Effects
 categories: [development, art]
-tags: [minigame prototype,]
+tags: [minigame prototype]
 fullview: false
 comments: false
 ---
