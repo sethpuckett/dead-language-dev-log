@@ -2,7 +2,7 @@
 layout: post
 title: Vocab Study
 categories: [development]
-tags: [minigame prototype, study]
+tags: [vocab study, target practice]
 fullview: false
 comments: false
 ---

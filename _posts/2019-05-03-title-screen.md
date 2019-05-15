@@ -2,7 +2,7 @@
 layout: post
 title: Title Screen
 categories: [development, art]
-tags: [minigame prototype]
+tags: [title screen, ui]
 fullview: false
 comments: false
 ---
