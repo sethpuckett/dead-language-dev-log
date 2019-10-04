@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vocab Study
-categories: [development]
+categories: [development, language learning]
 tags: [vocab study, target practice]
 fullview: false
 comments: false

@@ -2,7 +2,7 @@
 layout: post
 title: Saving Progress
 categories: [development]
-tags: [level select, game progression, review, firebase]
+tags: [level select, game progress, review, firebase]
 fullview: false
 comments: false
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Stage Parameters
 categories: [development, level design]
-tags: [game progress]
+tags: [game progress, minigame]
 fullview: false
 comments: false
 ---

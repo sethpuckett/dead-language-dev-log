@@ -2,7 +2,7 @@
 layout: post
 title: Locked Lessons
 categories: [development]
-tags: [level select, game progression]
+tags: [level select, game progress]
 fullview: false
 comments: false
 ---
